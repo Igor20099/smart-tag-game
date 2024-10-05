@@ -1,0 +1,10 @@
+images {
+  image: "/assets/sprites/four_square.png"
+}
+images {
+  image: "/assets/sprites/one_square.png"
+}
+images {
+  image: "/assets/sprites/two_square.png"
+}
+extrude_borders: 3
