@@ -5,8 +5,9 @@ main_collection = /assets/levels/level_manager.collectionc
 shared_state = 1
 
 [display]
-width = 960
-height = 640
+width = 430
+height = 932
+high_dpi = 1
 
 [android]
 input_method = HiddenInputField
@@ -15,4 +16,10 @@ input_method = HiddenInputField
 title = DefoldYaGamesTemplate
 dependencies#0 = https://github.com/indiesoftby/defold-yagames/archive/master.zip
 dependencies#1 = https://github.com/subsoap/defsave/archive/master.zip
+
+[render]
+clear_color_blue = 0.804
+clear_color_green = 0.353
+clear_color_red = 0.416
+clear_color_alpha = 1.0
 
